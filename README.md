@@ -1,1 +1,1 @@
-This repository contains CV 
+This repository is containing my resume.
